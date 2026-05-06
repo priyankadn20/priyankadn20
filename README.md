@@ -35,6 +35,6 @@
 ---
 
 ### 📊 GitHub Stats:
-![stats](https://github-readme-stats.vercel.app/api?username=priyankadn20&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyankadn20&layout=compact)
+![stats](https://github-readme-stats.vercel.app/api?username=priyankadn20&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyankadn20&layout=compact&theme=tokyonight)
+
