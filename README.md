@@ -35,9 +35,8 @@
 ---
 
 ### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyankadn20&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyankadn20&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyankadn20&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyankadn20&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyankadn20&theme=tokyonight&hide_border=true)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=priyankadn20&theme=tokyonight&hide_border=true)
