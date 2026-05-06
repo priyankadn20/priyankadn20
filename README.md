@@ -35,6 +35,8 @@
 ---
 
 ### 📊 GitHub Stats:
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyankadn20&theme=tokyonight)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyankadn20&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyankadn20&layout=compact&theme=tokyonight&hide_border=true)
