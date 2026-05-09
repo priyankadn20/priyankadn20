@@ -34,16 +34,7 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyankadn20&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=priyankadn20&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankadn20&layout=compact&theme=tokyonight" alt="top langs" />
-</p>
+### 📊 GitHub Stats:
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyankadn20&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=priyankadn20&theme=tokyonight&hide_border=true)
+...amr github er streak ghula change kno hocche na
