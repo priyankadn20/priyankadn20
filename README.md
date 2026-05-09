@@ -36,5 +36,5 @@
 
 ### 📊 GitHub Stats:
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyankadn20&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=priyankadn20&theme=tokyonight&hide_border=true)
-...amr github er streak ghula change kno hocche na
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=priyankadn20&theme=tokyonight&hide_border=true)
+
