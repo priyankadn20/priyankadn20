@@ -1,8 +1,7 @@
 # 💫Aboout Me:
 
 ###
-💻 Aspiring Web Developer  
-🔭 Learning JavaScript & React  
+💻 Aspiring Web Developer    
 🌱 Love building projects  
 
 ---
